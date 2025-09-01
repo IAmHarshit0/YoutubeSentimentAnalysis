@@ -1,0 +1,5 @@
+2025-08-31 15:06:09,373 - model_evaluation - ERROR - Error loading vectorizer from C:\Users\iamha\OneDrive\Documents\SentimentAnalysis\tfid_vectorizer.pkl: [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfid_vectorizer.pkl'
+2025-08-31 15:06:09,373 - model_evaluation - ERROR - Failed to complete model evaluation: [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfid_vectorizer.pkl'
+2025-08-31 15:07:33,326 - model_evaluation - ERROR - Error loading vectorizer from C:\Users\iamha\OneDrive\Documents\SentimentAnalysis\tfid_vectorizer.pkl: [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfid_vectorizer.pkl'
+2025-08-31 15:07:33,330 - model_evaluation - ERROR - Failed to complete model evaluation: [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfid_vectorizer.pkl'
+2025-08-31 15:10:04,469 - model_evaluation - ERROR - Failed to complete model evaluation: module 'mlflow' has no attribute 'log_metris'

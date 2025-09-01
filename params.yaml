@@ -2,7 +2,7 @@ data_ingestion:
   test_size: 0.20
 
 model_building:
-  n_gram_range: [1, 1]
+  ngram_range: [1, 1]
   max_features: 8000
   learning_rate: 0.09
   max_depth: 10

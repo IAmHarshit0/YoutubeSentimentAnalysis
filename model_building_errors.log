@@ -1,0 +1,2 @@
+2025-08-30 20:24:47,815 - model_building - ERROR - Error during TF-IDF transformation [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfidf_vectorizer.pkl'
+2025-08-30 20:24:47,816 - model_building - ERROR - Failed to complete the feature engineering and model building process: [Errno 2] No such file or directory: 'C:\\Users\\iamha\\OneDrive\\Documents\\SentimentAnalysis\\tfidf_vectorizer.pkl'
