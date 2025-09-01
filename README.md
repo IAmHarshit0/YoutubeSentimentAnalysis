@@ -102,13 +102,3 @@ Runs on: `http://localhost:5000`
 ## 📜 License
 
 MIT License
-
-```
-
----
-
-✅ Now the **project structure stays inside the same markdown block**.
-✅ The whole file is **one clean copy-paste chunk**.
-
-Do you also want me to add a **“How It Works (Step by Step)”** section (fetch → preprocess → predict → visualize), or keep it minimal like this?
-```
