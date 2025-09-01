@@ -1,8 +1,3 @@
-Got it 👍 Thanks for pointing this out. The problem is just formatting — the project structure block was breaking out of the flow. I’ll fix it so the **entire README is inside one clean markdown block** (no broken formatting, no code fences ending too early).
-
-Here’s the fully fixed **copy-paste `README.md`**:
-
-```markdown
 # YouTube Sentiment Analysis (Chrome Extension + Flask API)
 
 A full-stack **YouTube Sentiment Analysis system** built as a **Chrome Extension** connected to a **Flask API backend**.  
@@ -82,8 +77,8 @@ Located in `flask_api/main.py`
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-sentiment-analysis.git
-cd youtube-sentiment-analysis
+git clone https://github.com/IAmHarshit0/YoutubeSentimentAnalysis.git
+cd YoutubeSentimentAnalysis
 ````
 
 ### 2. Setup backend (Flask API)
@@ -101,12 +96,6 @@ Runs on: `http://localhost:5000`
 1. Open Chrome → Extensions → Manage Extensions → Enable Developer Mode
 2. Click **Load unpacked** and select the `chrome_plugin/` folder
 3. Open any YouTube video → click the extension icon → see sentiment insights
-
----
-
-## 📸 Screenshots
-
-_(add your extension popup and charts here)_
 
 ---
 
